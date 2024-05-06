@@ -1,7 +1,7 @@
 <!-- animation start  -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hello%2C+I'm+Masood+Ahmed%E2%9C%A8;%E2%9C%A8Passionate+MERN+Stack+Developer.+TS+NEXT%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowering+the+Community%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=500&size=25&duration=4000&pause=500&color=FF8000&center=true&vCenter=true&width=665&height=55&lines=%E2%9C%A8Hello%2C+I'm+Masood+Ahmed%E2%9C%A8;%E2%9C%A8Passionate+MERN+Stack+Developer.%E2%9C%A8;%E2%9C%A8Switching+the+Web2+users+to+Web3%E2%9C%A8;%E2%9C%A8Building+%26+Empowering+the+Community%E2%9C%A8;%E2%9C%A8Follow+to+Become+a+Web3+Developer%E2%9C%A8)](https://git.io/typing-svg)
 
 
 <!-- animation end  -->
@@ -12,16 +12,13 @@
 
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3, and AI Enthusiast.<br>
+• 💪🏻 I'm a Web3, and Cloud Generative AI Engineer.<br>
 • 👨‍💻 I'm a full-stack Developer from Pakistan.<br>
 • 🌱 I’m currently Learning advanced Programming stuffs.<br> 
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
 • 🚀 I'm a Consistent, Hard-working, and a Motivated person.<br> 
-• 🌊 I'm specialize in Blockchain, AI, and Web Development, and I have expertise in Prompt Engineering.<br>
-• 📗 I'm currently Teaching Programming to 3k+ Students at GIAIC, and managing the official community of thousands of students on Discord as a Student Ambassador.<br>
-• ✨ I have 3+ years of tech experience in Products Development, Graphics & UI/UX Designs, Community Management, Content &
-   Technical Writing.<br>
-• 📫 Reach me via Telegram DM (@AsharibAli).<br>
+• 🌊 I'm specialize in MERN STACK, AI, and Web Development, and I have expertise in WEB Development.<br>
+• 📫 Reach me via Telegram DM (@Masoodpiaic).<br>
 <hr>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-center: 10px;">Connect with me on 🤝: </h3>
