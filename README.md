@@ -43,14 +43,7 @@
 </p>
 
 
-<h2>:label: Github Stats</h2>
 
-<div>
-    <a href="#"><img alt="Asharib Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
-    <a href="#"><img alt="Asharib Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=asharibali&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
-    <br>
-</div>
 
 <h2>⚡ Skills</h2>
 
