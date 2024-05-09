@@ -12,7 +12,7 @@
 
 <hr>
 <h3 style="margin-top: 4px;">BUILDING & ENGAGING THE COMMUNITY</h3>
-• 💪🏻 I'm a Web3, and Cloud Generative AI Engineer.<br>
+• 💪🏻 I'm Learning Web3, and Cloud Generative AI Engineering.<br>
 • 👨‍💻 I'm a full-stack Developer from Pakistan.<br>
 • 🌱 I’m currently Learning advanced Programming stuffs.<br> 
 • 📗 I'm currently Learning from Panaverse, PIAIC.<br>
@@ -30,13 +30,13 @@
 <div>   
     <a href="masoodahmeed0031@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="masood ahmeed - Email"></a>
 <!--     <a href="https://t.me/AsharibAli" target="_blank"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=F0DB4F" alt="Asharib Ali -Telegram"></a> -->
-    <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Asharib Ali-Twitter"></a>
+    <a href="https://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt=""></a>
     <a href="https://linkedin.com/in/masood-ahmed-2b1845291" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Asharib Ali-Linkedin"></a><br>
     <a href="https://www.facebook.com/home.php" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=Facebook&logoColor=F0DB4F" alt="masood ahmeed- Facebook"></a>
-    <a href="https://www.Instagram.com/0xasharib/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Asharib Ali-Instagram"></a>
-    <a href="https://youtube.com/@0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Asharib Ali-Youtube"></a>
-<!--     <a href="https://www.fiverr.com/asharibarain" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Asharib Ali-fiverr"></a> -->
-<a href="https://asharibali.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=F0DB4F" alt="Asharib Ali-Medium"></a>
+    <a href="https://www.Instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" alt="Masood-Instagram"></a>
+    <a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/Youtube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" alt="Masood-Youtube"></a>
+<!--     <a href="https://www.fiverr.com" target="_blank"><img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=F0DB4F" alt="Masood-fiverr"></a> -->
+<a href="https://medium.com/@masoodahmed0031" target="_blank"><img src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=F0DB4F" alt="Masood Ahmed-Medium"></a>
     <br>
 </div>
 </p>
